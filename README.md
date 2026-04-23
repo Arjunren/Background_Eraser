@@ -5,7 +5,6 @@ This script provides a clean, efficient solution for automated color keying—si
 
 ### 📝 Project Description
 
-For your GitHub **About** section:
 > A high-precision image processing utility for automated color-keying and background transparency. Leverages NumPy-based masking to identify and remove specific hex-color ranges from images, outputting professionally rendered RGBA files.
 
 # 🖼️ Chroma Key Image Processor
